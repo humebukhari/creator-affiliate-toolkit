@@ -47,22 +47,6 @@ python -m http.server 3000
 - Netlify/Vercel/Firebase Hosting: drag & drop the folder or connect your GitHub repo.
 - After deployment, you’ll get a public URL for submission.
 
-## Screenshots
-Add 2–4 screenshots:
-- Public page
-- Admin panel
-- After clicking links (counters updated)
-
-## Submission
-- GitHub repository link
-- Deployment link
-- Presentation slides with: Title, Overview, Technologies, Features, AI Support, Screenshots
-- Due Date: follow your course schedule
-
----
-
-### How to use
-- Public mode (default): open `/index.html`
-- Admin mode: add `?mode=admin` to the URL, e.g. `index.html?mode=admin`
+dex.html?mode=admin`
 
 © 2025 Creator Affiliate Toolkit
